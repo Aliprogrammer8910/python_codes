@@ -1,0 +1,25 @@
+CPU
+GPU
+RAM
+Case
+Motherboard
+Storage Device
+Cooling fan
+PSU
+Display device
+Monitor
+Operating System
+Input Devices
+Mouse
+Keyboard
+UPS
+Printer
+Speaker
+Scanner
+Microphone
+Webcam
+Fan
+Sound Card
+CD/DVD Drive
+Power Cord
+SATA Hard Drive Cable

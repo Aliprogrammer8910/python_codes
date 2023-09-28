@@ -1,0 +1,15 @@
+
+Blender
+Mixer
+Toaster
+Microwave
+Stove
+Lamp
+Lantern
+Torch
+Kettle
+Oven
+Dishwasher
+Television
+Speaker
+Refrigerator
